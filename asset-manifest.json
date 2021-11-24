@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sg-website/static/css/main.ca9f0cb9.chunk.css",
+    "main.js": "/sg-website/static/js/main.f1efe208.chunk.js",
+    "main.js.map": "/sg-website/static/js/main.f1efe208.chunk.js.map",
+    "runtime-main.js": "/sg-website/static/js/runtime-main.9768f8c0.js",
+    "runtime-main.js.map": "/sg-website/static/js/runtime-main.9768f8c0.js.map",
+    "static/js/2.cfd86081.chunk.js": "/sg-website/static/js/2.cfd86081.chunk.js",
+    "static/js/2.cfd86081.chunk.js.map": "/sg-website/static/js/2.cfd86081.chunk.js.map",
+    "index.html": "/sg-website/index.html",
+    "static/css/main.ca9f0cb9.chunk.css.map": "/sg-website/static/css/main.ca9f0cb9.chunk.css.map",
+    "static/js/2.cfd86081.chunk.js.LICENSE.txt": "/sg-website/static/js/2.cfd86081.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/sg-website/static/media/logo.284946dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9768f8c0.js",
+    "static/js/2.cfd86081.chunk.js",
+    "static/css/main.ca9f0cb9.chunk.css",
+    "static/js/main.f1efe208.chunk.js"
+  ]
+}
